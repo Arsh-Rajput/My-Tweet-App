@@ -1,0 +1,13 @@
+17:07:37.325: ArrayList com.arsh.twitter.services.FollowService.getFollowers(int) generated Exception at 2021/02/23 17:07:37 for input 3, Cause: No user with specific Id found
+17:07:42.272: User com.arsh.twitter.services.FollowService.addFollowing(int,int) generated Exception at 2021/02/23 17:07:42 for input 1, Cause: No user with specific Id found
+17:07:47.913: User com.arsh.twitter.services.FollowService.addFollowing(int,int) generated Exception at 2021/02/23 17:07:47 for input 2, Cause: No user with specific Id found
+17:07:50.910: User com.arsh.twitter.services.FollowService.addFollowing(int,int) generated Exception at 2021/02/23 17:07:50 for input 3, Cause: Cannot follow self
+17:07:55.828: User com.arsh.twitter.services.FollowService.addFollowing(int,int) generated Exception at 2021/02/23 17:07:55 for input 1, Cause: No user with specific Id found
+17:08:07.310: User com.arsh.twitter.services.FollowService.addFollowing(int,int) generated Exception at 2021/02/23 17:08:07 for input 1, Cause: No user with specific Id found
+17:09:58.199: User com.arsh.twitter.services.FollowService.addFollowing(int,int) generated Exception at 2021/02/23 17:09:58 for input 1, Cause: Already following this user
+17:10:04.117: User com.arsh.twitter.services.FollowService.removeFollowing(int,int) generated Exception at 2021/02/23 17:10:04 for input 1, Cause: No user with specific Id found
+17:13:16.716: User com.arsh.twitter.services.FollowService.addFollowing(int,int) generated Exception at 2021/02/23 17:13:16 for input 1, Cause: No user with specific Id found
+17:13:19.819: User com.arsh.twitter.services.FollowService.addFollowing(int,int) generated Exception at 2021/02/23 17:13:19 for input 1, Cause: No user with specific Id found
+17:13:22.012: User com.arsh.twitter.services.FollowService.addFollowing(int,int) generated Exception at 2021/02/23 17:13:22 for input 1, Cause: No user with specific Id found
+17:13:28.328: User com.arsh.twitter.services.FollowService.addFollowing(int,int) generated Exception at 2021/02/23 17:13:28 for input 3, Cause: No user with specific Id found
+17:13:45.640: User com.arsh.twitter.services.FollowService.addFollowing(int,int) generated Exception at 2021/02/23 17:13:45 for input 3, Cause: Already following this user

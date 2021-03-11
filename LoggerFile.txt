@@ -1,0 +1,120 @@
+getUserExceptionsLog called at 14:04:38.813, ompleted at 14:04:38.849 total time taken -33 mili seconds.
+getOperationsLog called at 14:04:51.722, ompleted at 14:04:51.732 total time taken -10 mili seconds.
+getUserExceptionsLog called at 14:06:06.241, completed at 14:06:06.264 total time taken 22 mili seconds.
+save called at 14:06:25.640, completed at 14:06:25.856 total time taken 215 mili seconds.
+getUserExceptionsLog called at 14:07:00.097, completed at 14:07:00.126 total time taken 29 mili seconds.
+getOperationsLog called at 14:07:13.240, completed at 14:07:13.248 total time taken 8 mili seconds.
+findById called at 14:07:36.407, completed at 14:07:36.413 total time taken 6 mili seconds.
+findById called at 14:07:38.047, completed at 14:07:38.049 total time taken 2 mili seconds.
+getOperationsLog called at 14:07:56.087, completed at 14:07:56.099 total time taken 12 mili seconds.
+14:09:21.160: getOperationsLog called at 14:09:21.137, completed at 14:09:21.161 total time taken 23 mili seconds.
+14:09:31.028: findById called at 14:09:31.022, completed at 14:09:31.028 total time taken 6 mili seconds.
+14:09:33.509: findById called at 14:09:33.507, completed at 14:09:33.509 total time taken 2 mili seconds.
+14:09:41.121: getOperationsLog called at 14:09:41.111, completed at 14:09:41.121 total time taken 10 mili seconds.
+14:22:49.451: save called at 14:22:49.432, completed at 14:22:49.451 total time taken 19 mili seconds.
+14:23:24.069: getUserExceptionsLog called at 14:23:24.037, completed at 14:23:24.069 total time taken 32 mili seconds.
+14:24:10.185: String com.arsh.twitter.services.UserService.getUserExceptionsLog() called at 14:24:10.147, completed at 14:24:10.185 total time taken 37 mili seconds.
+14:24:21.257: String com.arsh.twitter.services.UserService.getOperationsLog() called at 14:24:21.245, completed at 14:24:21.257 total time taken 12 mili seconds.
+14:56:28.592: Tweet com.arsh.twitter.services.TweetService.getTweetById(int) called at 14:56:28.520, completed at 14:56:28.592 total time taken 70 mili seconds.
+14:56:47.297: User com.arsh.twitter.services.UserService.findById(int) called at 14:56:47.293, completed at 14:56:47.297 total time taken 4 mili seconds.
+14:56:47.309: Tweet com.arsh.twitter.services.TweetService.saveTweet(Tweet) called at 14:56:47.298, completed at 14:56:47.309 total time taken 11 mili seconds.
+14:56:48.656: User com.arsh.twitter.services.UserService.findById(int) called at 14:56:48.654, completed at 14:56:48.656 total time taken 2 mili seconds.
+14:56:48.658: Tweet com.arsh.twitter.services.TweetService.saveTweet(Tweet) called at 14:56:48.656, completed at 14:56:48.658 total time taken 2 mili seconds.
+17:06:01.949: User com.arsh.twitter.services.UserService.update(User) called at 17:06:01.870, completed at 17:06:01.949 total time taken 78 mili seconds.
+17:06:15.159: User com.arsh.twitter.services.UserService.update(User) called at 17:06:15.157, completed at 17:06:15.159 total time taken 2 mili seconds.
+17:06:16.401: User com.arsh.twitter.services.UserService.update(User) called at 17:06:16.397, completed at 17:06:16.401 total time taken 4 mili seconds.
+17:06:17.651: User com.arsh.twitter.services.UserService.update(User) called at 17:06:17.649, completed at 17:06:17.651 total time taken 2 mili seconds.
+17:06:27.202: List com.arsh.twitter.services.UserService.findAll() called at 17:06:27.195, completed at 17:06:27.202 total time taken 7 mili seconds.
+17:06:28.425: User com.arsh.twitter.services.UserService.findById(int) called at 17:06:28.424, completed at 17:06:28.425 total time taken 1 mili seconds.
+17:06:38.997: void com.arsh.twitter.services.UserService.deleteById(int) called at 17:06:38.978, completed at 17:06:38.997 total time taken 19 mili seconds.
+17:06:52.354: Tweet com.arsh.twitter.services.TweetService.getTweetById(int) called at 17:06:52.345, completed at 17:06:52.354 total time taken 9 mili seconds.
+17:06:59.999: User com.arsh.twitter.services.UserService.findById(int) called at 17:06:59.995, completed at 17:06:59.999 total time taken 4 mili seconds.
+17:07:02.842: Tweet com.arsh.twitter.services.TweetService.getTweetById(int) called at 17:07:02.841, completed at 17:07:02.842 total time taken 1 mili seconds.
+17:07:06.689: User com.arsh.twitter.services.UserService.findById(int) called at 17:07:06.688, completed at 17:07:06.689 total time taken 1 mili seconds.
+17:07:06.698: Tweet com.arsh.twitter.services.TweetService.saveTweet(Tweet) called at 17:07:06.690, completed at 17:07:06.698 total time taken 8 mili seconds.
+17:07:16.324: User com.arsh.twitter.services.UserService.findById(int) called at 17:07:16.323, completed at 17:07:16.324 total time taken 1 mili seconds.
+17:07:16.329: Tweet com.arsh.twitter.services.TweetService.saveTweet(Tweet) called at 17:07:16.324, completed at 17:07:16.329 total time taken 5 mili seconds.
+17:07:17.169: User com.arsh.twitter.services.UserService.findById(int) called at 17:07:17.167, completed at 17:07:17.169 total time taken 2 mili seconds.
+17:07:17.172: Tweet com.arsh.twitter.services.TweetService.saveTweet(Tweet) called at 17:07:17.170, completed at 17:07:17.172 total time taken 2 mili seconds.
+17:07:26.907: User com.arsh.twitter.services.UserService.findById(int) called at 17:07:26.905, completed at 17:07:26.907 total time taken 2 mili seconds.
+17:07:26.915: Tweet com.arsh.twitter.services.TweetService.updateTweet(Tweet) called at 17:07:26.909, completed at 17:07:26.915 total time taken 6 mili seconds.
+17:07:28.319: User com.arsh.twitter.services.UserService.findById(int) called at 17:07:28.318, completed at 17:07:28.319 total time taken 1 mili seconds.
+17:07:28.322: Tweet com.arsh.twitter.services.TweetService.updateTweet(Tweet) called at 17:07:28.320, completed at 17:07:28.322 total time taken 2 mili seconds.
+17:07:28.571: User com.arsh.twitter.services.UserService.findById(int) called at 17:07:28.569, completed at 17:07:28.571 total time taken 2 mili seconds.
+17:07:28.572: Tweet com.arsh.twitter.services.TweetService.updateTweet(Tweet) called at 17:07:28.571, completed at 17:07:28.573 total time taken 1 mili seconds.
+17:07:32.525: void com.arsh.twitter.services.TweetService.deleteTweetById(int) called at 17:07:32.522, completed at 17:07:32.525 total time taken 3 mili seconds.
+17:07:42.269: User com.arsh.twitter.services.UserService.findById(int) called at 17:07:42.268, completed at 17:07:42.269 total time taken 1 mili seconds.
+17:07:55.827: User com.arsh.twitter.services.UserService.findById(int) called at 17:07:55.826, completed at 17:07:55.827 total time taken 1 mili seconds.
+17:08:00.113: List com.arsh.twitter.services.UserService.findAll() called at 17:08:00.112, completed at 17:08:00.113 total time taken 1 mili seconds.
+17:08:07.309: User com.arsh.twitter.services.UserService.findById(int) called at 17:08:07.308, completed at 17:08:07.309 total time taken 1 mili seconds.
+17:08:43.143: String com.arsh.twitter.services.UserService.getOperationsLog() called at 17:08:43.089, completed at 17:08:43.143 total time taken 54 mili seconds.
+17:09:02.300: String com.arsh.twitter.services.TweetService.getTweetExceptionsLog() called at 17:09:02.295, completed at 17:09:02.300 total time taken 5 mili seconds.
+17:09:18.984: String com.arsh.twitter.services.UserService.getUserExceptionsLog() called at 17:09:18.953, completed at 17:09:18.984 total time taken 31 mili seconds.
+17:09:40.655: List com.arsh.twitter.services.UserService.findAll() called at 17:09:40.652, completed at 17:09:40.655 total time taken 3 mili seconds.
+17:09:48.722: User com.arsh.twitter.services.UserService.save(User) called at 17:09:48.720, completed at 17:09:48.722 total time taken 2 mili seconds.
+17:09:56.731: User com.arsh.twitter.services.UserService.findById(int) called at 17:09:56.727, completed at 17:09:56.731 total time taken 4 mili seconds.
+17:09:56.733: User com.arsh.twitter.services.UserService.findById(int) called at 17:09:56.731, completed at 17:09:56.733 total time taken 2 mili seconds.
+17:09:56.742: User com.arsh.twitter.services.UserService.update(User) called at 17:09:56.734, completed at 17:09:56.743 total time taken 8 mili seconds.
+17:09:56.745: User com.arsh.twitter.services.UserService.update(User) called at 17:09:56.743, completed at 17:09:56.745 total time taken 2 mili seconds.
+17:09:56.746: User com.arsh.twitter.services.FollowService.addFollowing(int,int) called at 17:09:56.727, completed at 17:09:56.746 total time taken 19 mili seconds.
+17:09:58.197: User com.arsh.twitter.services.UserService.findById(int) called at 17:09:58.196, completed at 17:09:58.197 total time taken 1 mili seconds.
+17:09:58.198: User com.arsh.twitter.services.UserService.findById(int) called at 17:09:58.197, completed at 17:09:58.198 total time taken 1 mili seconds.
+17:10:04.116: User com.arsh.twitter.services.UserService.findById(int) called at 17:10:04.114, completed at 17:10:04.116 total time taken 2 mili seconds.
+17:10:06.349: User com.arsh.twitter.services.UserService.findById(int) called at 17:10:06.348, completed at 17:10:06.349 total time taken 1 mili seconds.
+17:10:06.350: User com.arsh.twitter.services.UserService.findById(int) called at 17:10:06.349, completed at 17:10:06.350 total time taken 1 mili seconds.
+17:10:06.355: User com.arsh.twitter.services.UserService.update(User) called at 17:10:06.351, completed at 17:10:06.355 total time taken 4 mili seconds.
+17:10:06.356: User com.arsh.twitter.services.UserService.update(User) called at 17:10:06.355, completed at 17:10:06.356 total time taken 1 mili seconds.
+17:10:06.356: User com.arsh.twitter.services.FollowService.removeFollowing(int,int) called at 17:10:06.348, completed at 17:10:06.356 total time taken 8 mili seconds.
+17:10:25.469: String com.arsh.twitter.services.UserService.getOperationsLog() called at 17:10:25.406, completed at 17:10:25.469 total time taken 63 mili seconds.
+17:12:07.523: String com.arsh.twitter.services.UserService.getOperationsLog() called at 17:12:07.452, completed at 17:12:07.523 total time taken 71 mili seconds.
+17:12:10.731: String com.arsh.twitter.services.UserService.getOperationsLog() called at 17:12:10.675, completed at 17:12:10.731 total time taken 56 mili seconds.
+17:12:22.970: List com.arsh.twitter.services.UserService.findAll() called at 17:12:22.966, completed at 17:12:22.971 total time taken 4 mili seconds.
+17:12:27.359: User com.arsh.twitter.services.UserService.findById(int) called at 17:12:27.357, completed at 17:12:27.359 total time taken 2 mili seconds.
+17:12:32.328: User com.arsh.twitter.services.UserService.save(User) called at 17:12:32.314, completed at 17:12:32.328 total time taken 14 mili seconds.
+17:12:37.325: User com.arsh.twitter.services.UserService.update(User) called at 17:12:37.319, completed at 17:12:37.325 total time taken 6 mili seconds.
+17:12:38.109: User com.arsh.twitter.services.UserService.update(User) called at 17:12:38.108, completed at 17:12:38.109 total time taken 1 mili seconds.
+17:12:42.709: Tweet com.arsh.twitter.services.TweetService.getTweetById(int) called at 17:12:42.704, completed at 17:12:42.709 total time taken 5 mili seconds.
+17:12:45.957: User com.arsh.twitter.services.UserService.findById(int) called at 17:12:45.955, completed at 17:12:45.957 total time taken 2 mili seconds.
+17:12:50.897: User com.arsh.twitter.services.UserService.findById(int) called at 17:12:50.895, completed at 17:12:50.897 total time taken 2 mili seconds.
+17:12:50.905: Tweet com.arsh.twitter.services.TweetService.saveTweet(Tweet) called at 17:12:50.898, completed at 17:12:50.905 total time taken 7 mili seconds.
+17:12:54.858: User com.arsh.twitter.services.UserService.findById(int) called at 17:12:54.857, completed at 17:12:54.858 total time taken 1 mili seconds.
+17:12:59.594: User com.arsh.twitter.services.UserService.findById(int) called at 17:12:59.592, completed at 17:12:59.595 total time taken 2 mili seconds.
+17:12:59.599: Tweet com.arsh.twitter.services.TweetService.updateTweet(Tweet) called at 17:12:59.596, completed at 17:12:59.599 total time taken 3 mili seconds.
+17:13:02.421: User com.arsh.twitter.services.UserService.findById(int) called at 17:13:02.420, completed at 17:13:02.421 total time taken 0 mili seconds.
+17:13:02.422: Tweet com.arsh.twitter.services.TweetService.updateTweet(Tweet) called at 17:13:02.421, completed at 17:13:02.422 total time taken 1 mili seconds.
+17:13:03.854: User com.arsh.twitter.services.UserService.findById(int) called at 17:13:03.853, completed at 17:13:03.854 total time taken 1 mili seconds.
+17:13:03.857: Tweet com.arsh.twitter.services.TweetService.updateTweet(Tweet) called at 17:13:03.854, completed at 17:13:03.857 total time taken 3 mili seconds.
+17:13:09.917: User com.arsh.twitter.services.UserService.findById(int) called at 17:13:09.916, completed at 17:13:09.917 total time taken 1 mili seconds.
+17:13:09.917: ArrayList com.arsh.twitter.services.FollowService.getFollowers(int) called at 17:13:09.912, completed at 17:13:09.918 total time taken 5 mili seconds.
+17:13:16.713: User com.arsh.twitter.services.UserService.findById(int) called at 17:13:16.711, completed at 17:13:16.713 total time taken 2 mili seconds.
+17:13:19.817: User com.arsh.twitter.services.UserService.findById(int) called at 17:13:19.816, completed at 17:13:19.817 total time taken 1 mili seconds.
+17:13:22.009: User com.arsh.twitter.services.UserService.findById(int) called at 17:13:22.008, completed at 17:13:22.009 total time taken 1 mili seconds.
+17:13:28.327: User com.arsh.twitter.services.UserService.findById(int) called at 17:13:28.325, completed at 17:13:28.327 total time taken 2 mili seconds.
+17:13:33.543: User com.arsh.twitter.services.UserService.findById(int) called at 17:13:33.541, completed at 17:13:33.543 total time taken 2 mili seconds.
+17:13:36.335: List com.arsh.twitter.services.UserService.findAll() called at 17:13:36.333, completed at 17:13:36.335 total time taken 2 mili seconds.
+17:13:44.542: User com.arsh.twitter.services.UserService.findById(int) called at 17:13:44.541, completed at 17:13:44.542 total time taken 1 mili seconds.
+17:13:44.543: User com.arsh.twitter.services.UserService.findById(int) called at 17:13:44.542, completed at 17:13:44.543 total time taken 1 mili seconds.
+17:13:44.546: User com.arsh.twitter.services.UserService.update(User) called at 17:13:44.544, completed at 17:13:44.546 total time taken 2 mili seconds.
+17:13:44.547: User com.arsh.twitter.services.UserService.update(User) called at 17:13:44.546, completed at 17:13:44.547 total time taken 1 mili seconds.
+17:13:44.547: User com.arsh.twitter.services.FollowService.addFollowing(int,int) called at 17:13:44.541, completed at 17:13:44.547 total time taken 6 mili seconds.
+17:13:45.636: User com.arsh.twitter.services.UserService.findById(int) called at 17:13:45.633, completed at 17:13:45.637 total time taken 3 mili seconds.
+17:13:45.639: User com.arsh.twitter.services.UserService.findById(int) called at 17:13:45.637, completed at 17:13:45.639 total time taken 2 mili seconds.
+17:13:56.945: String com.arsh.twitter.services.UserService.getOperationsLog() called at 17:13:56.792, completed at 17:13:56.945 total time taken 153 mili seconds.
+17:14:21.789: String com.arsh.twitter.services.FollowService.getFollowExceptionsLog() called at 17:14:21.780, completed at 17:14:21.789 total time taken 9 mili seconds.
+18:13:45.879: List com.arsh.twitter.services.UserService.findAll() called at 18:13:45.668, completed at 18:13:45.880 total time taken 211 mili seconds.
+22:47:42.852: List com.arsh.twitter.services.UserService.findAll() called at 22:47:42.438, completed at 22:47:42.854 total time taken 414 mili seconds.
+22:53:30.245: User com.arsh.twitter.services.UserService.findById(int) called at 22:53:30.228, completed at 22:53:30.245 total time taken 16 mili seconds.
+22:53:37.702: User com.arsh.twitter.services.UserService.findById(int) called at 22:53:37.698, completed at 22:53:37.702 total time taken 4 mili seconds.
+22:54:32.470: User com.arsh.twitter.services.UserService.findById(int) called at 22:54:32.467, completed at 22:54:32.470 total time taken 3 mili seconds.
+22:54:32.520: Tweet com.arsh.twitter.services.TweetService.saveTweet(Tweet) called at 22:54:32.471, completed at 22:54:32.520 total time taken 49 mili seconds.
+22:54:53.033: User com.arsh.twitter.services.UserService.findById(int) called at 22:54:53.028, completed at 22:54:53.033 total time taken 5 mili seconds.
+22:55:07.031: User com.arsh.twitter.services.UserService.findById(int) called at 22:55:07.029, completed at 22:55:07.032 total time taken 2 mili seconds.
+22:55:07.047: Tweet com.arsh.twitter.services.TweetService.saveTweet(Tweet) called at 22:55:07.032, completed at 22:55:07.047 total time taken 15 mili seconds.
+22:55:11.044: User com.arsh.twitter.services.UserService.findById(int) called at 22:55:11.033, completed at 22:55:11.044 total time taken 11 mili seconds.
+22:55:31.227: User com.arsh.twitter.services.UserService.findById(int) called at 22:55:31.224, completed at 22:55:31.227 total time taken 3 mili seconds.
+22:57:00.605: User com.arsh.twitter.services.UserService.save(User) called at 22:57:00.579, completed at 22:57:00.605 total time taken 26 mili seconds.
+22:57:21.628: List com.arsh.twitter.services.UserService.findAll() called at 22:57:21.621, completed at 22:57:21.628 total time taken 7 mili seconds.
+22:57:32.257: List com.arsh.twitter.services.UserService.findAll() called at 22:57:32.247, completed at 22:57:32.257 total time taken 10 mili seconds.
+22:58:14.580: User com.arsh.twitter.services.UserService.save(User) called at 22:58:14.566, completed at 22:58:14.580 total time taken 14 mili seconds.
+22:58:35.175: List com.arsh.twitter.services.UserService.findAll() called at 22:58:35.165, completed at 22:58:35.175 total time taken 10 mili seconds.
+00:07:27.956: List com.arsh.twitter.services.UserService.findAll() called at 00:07:27.924, completed at 00:07:27.956 total time taken 32 mili seconds.

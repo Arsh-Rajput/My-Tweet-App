@@ -1,0 +1,11 @@
+User com.arsh.twitter.services.UserService.save(User) generated Exception at 2021/02/22 17:29:18 for input User [id=0, name=Abhinav Sharma, handle=Abi_the_rock, dob=1996-09-19, email=abhigyjan@gmail.com, contact=9876543232, followers=[], followings=[], tweets=[]]
+User com.arsh.twitter.services.UserService.save(User) generated Exception at 2021/02/22 17:31:06 for input User [id=0, name=Abhinav Sharma, handle=Abi_the_rock, dob=1996-09-19, email=abhigyjan@gmail.com, contact=9876543232, followers=[], followings=[], tweets=[]]
+User com.arsh.twitter.services.UserService.save(User) generated Exception at 2021/02/22 17:31:15 for input User [id=0, name=Abhinav Sharma, handle=Abi_the_rock, dob=1996-09-19, email=abhigyjan@gmail.com, contact=9876543232, followers=[], followings=[], tweets=[]]
+User com.arsh.twitter.services.UserService.save(User) generated Exception at 2021/02/22 17:31:23 for input User [id=0, name=Abhinav Sharma, handle=Abi_the_rock, dob=1996-09-19, email=abhigyjan@gmail.com, contact=9876543232, followers=[], followings=[], tweets=[]]
+User com.arsh.twitter.services.UserService.save(User) generated Exception at 2021/02/22 17:31:33 for input User [id=0, name=Abhinav Sharma, handle=Abi_the_rock, dob=1996-09-19, email=abhigyjan@gmail.com, contact=9876543232, followers=[], followings=[], tweets=[]]
+User com.arsh.twitter.services.UserService.findById(int) generated Exception at 2021/02/23 12:20:30 for input 34
+User com.arsh.twitter.services.UserService.findById(int) generated Exception at 2021/02/23 12:20:32 for input 34
+User com.arsh.twitter.services.UserService.save(User) generated Exception at 2021/02/23 12:20:37 for input User [id=0, name=Abhinav Sharma, handle=Abi_the_rock, dob=1996-09-19, email=abhigyjan@gmail.com, contact=9876543232, followers=[], followings=[], tweets=[]]
+User com.arsh.twitter.services.UserService.save(User) generated Exception at 2021/02/23 12:21:14 for input User [id=0, name=Abhinav Sharma, handle=Abi_the_rock, dob=1996-09-19, email=abhigyjan@gmail.com, contact=9876543232, followers=[], followings=[], tweets=[]]
+User com.arsh.twitter.services.UserService.findById(int) generated Exception at 2021/02/23 12:24:12 for input 444
+User com.arsh.twitter.services.UserService.findById(int) generated Exception at 2021/02/23 12:35:02 for input 122

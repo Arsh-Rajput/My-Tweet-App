@@ -1,0 +1,4 @@
+14:56:32.060: Tweet com.arsh.twitter.services.TweetService.getTweetById(int) generated Exception at 2021/02/23 14:56:32 for input 3, Cause: No tweet with specific id present
+17:06:47.565: Tweet com.arsh.twitter.services.TweetService.getTweetById(int) generated Exception at 2021/02/23 17:06:47 for input 3, Cause: No tweet with specific id present
+17:06:48.832: Tweet com.arsh.twitter.services.TweetService.getTweetById(int) generated Exception at 2021/02/23 17:06:48 for input 1, Cause: No tweet with specific id present
+17:07:33.592: void com.arsh.twitter.services.TweetService.deleteTweetById(int) generated Exception at 2021/02/23 17:07:33 for input 2, Cause: No tweet with specific Id unable to delete
